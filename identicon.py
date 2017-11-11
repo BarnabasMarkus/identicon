@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# IDENTICON GENERATOR
+# I D E N T I C O N   G E N E R A T O R
 
 # Project   Identicon Generator
 # Author    Barnabas Markus
