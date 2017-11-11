@@ -29,17 +29,17 @@ pip3 install pillow
 >>> icon = Identicon(633)
 >>> icon.show()
 ```
-![Result identicon](http://url/to/img.png)
+![Result identicon](https://github.com/BarnabasMarkus/identicon/blob/master/examples/633.jpg)
 
 ```Python
 >>> icon = Identicon(643123814053102).show()
 ```
-![Result identicon](http://url/to/img.png)
+![Result identicon](https://github.com/BarnabasMarkus/identicon/blob/master/examples/643123814053102.jpg)
 
 ```Python
 >>> icon = Identicon(905994379828304).show()
 ```
-![Result identicon](http://url/to/img.png)
+![Result identicon](https://github.com/BarnabasMarkus/identicon/blob/master/examples/905994379828304.jpg)
 
 ## License
 MIT License
